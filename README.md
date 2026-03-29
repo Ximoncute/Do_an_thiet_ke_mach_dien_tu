@@ -81,24 +81,13 @@ Mục đích:
 
 ---
 
-# Cấu trúc thư mục
-```bash
-Do_an_thiet_ke_mach_dien_tu/
-│
-├── docs/ # Tài liệu đồ án
-├── schematic/ # Sơ đồ nguyên lý
-├── simulation/ # File mô phỏng
-├── code/ # Code điều khiển (nếu có)
-├── images/ # Hình ảnh mạch
-└── README.md
-```bash
-## 2 Mở file mô phỏng
+## 5 Mở file mô phỏng
 Mở bằng:
 - Proteus
 hoặc
 - Multisim
 
-## 3 Chạy mô phỏng
+## 6 Chạy mô phỏng
 - Run simulation
 - Quan sát tín hiệu đầu ra
 
@@ -121,7 +110,17 @@ Trong tương lai dự án có thể mở rộng:
 - Tối ưu công suất
 - Tích hợp vi điều khiển
 - Ứng dụng IoT
-
+---
+# Cấu trúc thư mục
+```bash
+Do_an_thiet_ke_mach_dien_tu/
+│
+├── docs/ # Tài liệu đồ án
+├── schematic/ # Sơ đồ nguyên lý
+├── simulation/ # File mô phỏng
+├── code/ # Code điều khiển (nếu có)
+├── images/ # Hình ảnh mạch
+└── README.md
 ---
 
 # Hình ảnh hệ thống
