@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=HD2-1
+Removed Pin From Net: NetName=+220V Pin=HD2-2
+Added Component: Designator=HD2(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+220V Pin=HD2-1
+Added Pin To Net: NetName=GND Pin=HD2-2
+Added Room: Name=mach_ve

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+220V Pin=RL1-3
+Added Pin To Net: NetName=+220V Pin=RL1-2
+Added Room: Name=mach_ve
