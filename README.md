@@ -91,7 +91,7 @@ Do_an_thiet_ke_mach_dien_tu/
 ├── code/ # Code điều khiển (nếu có)
 ├── images/ # Hình ảnh mạch
 └── README.md
-
+```bash
 ## 2 Mở file mô phỏng
 Mở bằng:
 - Proteus
