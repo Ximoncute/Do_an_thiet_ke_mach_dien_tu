@@ -97,24 +97,26 @@ Markdown# Đồ Án Thiết Kế Mạch Điện Tử
 | Quản lý phiên bản     | Git + GitHub                                |
 
 ## 📁 Cấu trúc thư mục dự án
+
+```bash
 Do_an_thiet_ke_mach_dien_tu/
 ├── Hardware/
 │   ├── Schematic/
 │   ├── PCB_Layout/
 │   ├── Gerber/
-│   ├── BOM (Bill of Materials).xlsx
+│   ├── BOM_(Bill_of_Materials).xlsx
 │   └── 3D_Model/
 ├── Software/
-│   ├── STM32CubeIDE_Project/     (hoặc Keil, Arduino...)
+│   ├── STM32CubeIDE_Project/          # hoặc Keil, Arduino IDE...
 │   ├── Libraries/
 │   └── Documents/
 ├── Simulation/
 │   └── Proteus_Project/
 ├── Documents/
-│   ├── De cuong do an.pdf
-│   ├── Bao cao do an.pdf
-│   ├── Slide bao ve.pptx
-│   └── Hinh anh thuc nghiem/
+│   ├── De_cuong_do_an.pdf
+│   ├── Bao_cao_do_an.pdf
+│   ├── Slide_bao_ve.pptx
+│   └── Hinh_anh_thuc_nghiem/
 ├── Images/
 │   ├── Schematic.png
 │   ├── PCB_3D.png
