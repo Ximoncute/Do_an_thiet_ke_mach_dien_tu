@@ -97,8 +97,6 @@ Markdown# Đồ Án Thiết Kế Mạch Điện Tử
 | Quản lý phiên bản     | Git + GitHub                                |
 
 ## 📁 Cấu trúc thư mục dự án
-
-```bash
 Do_an_thiet_ke_mach_dien_tu/
 ├── Hardware/
 │   ├── Schematic/
