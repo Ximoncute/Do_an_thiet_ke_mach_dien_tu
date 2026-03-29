@@ -82,6 +82,7 @@ Mục đích:
 ---
 
 # Cấu trúc thư mục
+```bash
 Do_an_thiet_ke_mach_dien_tu/
 │
 ├── docs/ # Tài liệu đồ án
@@ -124,4 +125,5 @@ Trong tương lai dự án có thể mở rộng:
 ---
 
 # Hình ảnh hệ thống
+<img width="1284" height="2778" alt="image" src="https://github.com/user-attachments/assets/3cf7b178-06cf-4b16-b2ff-e282fb437883" />
 
