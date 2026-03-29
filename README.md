@@ -111,6 +111,9 @@ Trong tương lai dự án có thể mở rộng:
 - Tích hợp vi điều khiển
 - Ứng dụng IoT
 ---
+# Hình ảnh hệ thống
+<img width="1284" height="2778" alt="image" src="https://github.com/user-attachments/assets/592297ee-e959-402e-8fde-0c7455df57d0" />
+
 # Cấu trúc thư mục
 ```bash
 Do_an_thiet_ke_mach_dien_tu/
@@ -123,6 +126,5 @@ Do_an_thiet_ke_mach_dien_tu/
 └── README.md
 ---
 
-# Hình ảnh hệ thống
-<img width="1284" height="2778" alt="image" src="https://github.com/user-attachments/assets/3cf7b178-06cf-4b16-b2ff-e282fb437883" />
+
 
